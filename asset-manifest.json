@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sescvkminiapp/static/css/main.981f7211.chunk.css",
+    "main.js": "/sescvkminiapp/static/js/main.2f85cff1.chunk.js",
+    "main.js.map": "/sescvkminiapp/static/js/main.2f85cff1.chunk.js.map",
+    "runtime-main.js": "/sescvkminiapp/static/js/runtime-main.8ec8a414.js",
+    "runtime-main.js.map": "/sescvkminiapp/static/js/runtime-main.8ec8a414.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/sescvkminiapp/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.127f8b0a.chunk.js": "/sescvkminiapp/static/js/2.127f8b0a.chunk.js",
+    "static/js/2.127f8b0a.chunk.js.map": "/sescvkminiapp/static/js/2.127f8b0a.chunk.js.map",
+    "index.html": "/sescvkminiapp/index.html",
+    "precache-manifest.e84f08b070d5f1b1d7ebdea0cbcd132d.js": "/sescvkminiapp/precache-manifest.e84f08b070d5f1b1d7ebdea0cbcd132d.js",
+    "service-worker.js": "/sescvkminiapp/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/sescvkminiapp/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/sescvkminiapp/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/sescvkminiapp/static/media/persik.4e1ec840.png"
+  }
+}
