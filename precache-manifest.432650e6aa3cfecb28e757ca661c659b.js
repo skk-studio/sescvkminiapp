@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5dfb17e5ca5c1d1a7982cddc3bb798d",
+    "revision": "8c2e6427b91a81944d381bfbc073124c",
     "url": "/sescvkminiapp/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sescvkminiapp/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "e15a49fdce222e87712e",
-    "url": "/sescvkminiapp/static/css/main.981f7211.chunk.css"
+    "revision": "d05ffb38c700b93e6d5c",
+    "url": "/sescvkminiapp/static/css/main.439b4a20.chunk.css"
   },
   {
     "revision": "100591e5c99d4eadb767",
     "url": "/sescvkminiapp/static/js/2.9103ca06.chunk.js"
   },
   {
-    "revision": "e15a49fdce222e87712e",
+    "revision": "d05ffb38c700b93e6d5c",
     "url": "/sescvkminiapp/static/js/main.163a3b63.chunk.js"
   },
   {
