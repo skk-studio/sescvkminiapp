@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c2e6427b91a81944d381bfbc073124c",
+    "revision": "d30c4b28479efc9a68a78676e77f2855",
     "url": "/sescvkminiapp/index.html"
   },
   {
-    "revision": "100591e5c99d4eadb767",
+    "revision": "9b62bf6281cb23033905",
     "url": "/sescvkminiapp/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "d05ffb38c700b93e6d5c",
+    "revision": "5aa75adc5a63b0376398",
     "url": "/sescvkminiapp/static/css/main.439b4a20.chunk.css"
   },
   {
-    "revision": "100591e5c99d4eadb767",
-    "url": "/sescvkminiapp/static/js/2.9103ca06.chunk.js"
+    "revision": "9b62bf6281cb23033905",
+    "url": "/sescvkminiapp/static/js/2.127f8b0a.chunk.js"
   },
   {
-    "revision": "d05ffb38c700b93e6d5c",
-    "url": "/sescvkminiapp/static/js/main.163a3b63.chunk.js"
+    "revision": "5aa75adc5a63b0376398",
+    "url": "/sescvkminiapp/static/js/main.35af5bf2.chunk.js"
   },
   {
     "revision": "11af692d64d88fc10383",
