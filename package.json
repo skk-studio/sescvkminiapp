@@ -2,6 +2,7 @@
   "name": "sescvkminiapp",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
@@ -14,10 +15,11 @@
   "license": "MIT",
   "homepage": "https://skk-studio.github.io/sescvkminiapp/",
   "devDependencies": {
+    "@vkontakte/vk-miniapps-deploy": "0.0.10",
     "cross-env": "^5.2.0",
+    "gh-pages": "^2.1.1",
     "react-hot-loader": "^4.9.0",
-    "react-scripts": "^3.1.2",
-    "gh-pages": "^2.1.1"
+    "react-scripts": "^3.1.2"
   },
   "dependencies": {
     "@vkontakte/icons": "^1.10.0",

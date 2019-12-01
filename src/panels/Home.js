@@ -10,7 +10,7 @@ import Avatar from '@vkontakte/vkui/dist/components/Avatar/Avatar';
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
-		<PanelHeader>Теперь App - это класс</PanelHeader>
+		<PanelHeader>App все еще функция</PanelHeader>
 		{fetchedUser &&
 		<Group title="User Data Fetched with VK Connect">
 			<Cell
