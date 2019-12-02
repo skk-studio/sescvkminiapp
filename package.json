@@ -8,12 +8,13 @@
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "vk-miniapps-deploy",
+    "clean-source": "rimraf README.md src webroot package.json"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "homepage": "https://skk-studio.github.io/sescvkminiapp/",
+  "homepage": "./",
   "devDependencies": {
     "@vkontakte/vk-miniapps-deploy": "0.0.10",
     "cross-env": "^5.2.0",
